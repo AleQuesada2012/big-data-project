@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+kagglehub
+geopandas
+shapely
+requests
+folktables
+fairlearn
+pyspark
+openpyxl

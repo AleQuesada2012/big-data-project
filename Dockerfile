@@ -30,4 +30,4 @@ RUN ln /usr/bin/python3.7 /usr/bin/python
 
 WORKDIR /src
 
-COPY . /src
+COPY .. /src

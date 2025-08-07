@@ -22,3 +22,5 @@ Al ser clonado desde gitHub, los archivos excel de los que se componen los datos
 4. `launch-jupy.sh` para levantar el proceso de Jupyter Notebook y poder trabajar
 
 5. Abrir jupyter en el puerto 8.8.8.8 con el enlace que le muestra la consola
+
+6. Abrir el cuaderno `MainProject.ipynb` para ver sus contenidos. 

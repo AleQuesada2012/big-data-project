@@ -3,11 +3,10 @@ numpy
 scikit-learn
 matplotlib
 seaborn
-kagglehub
 geopandas
 shapely
 requests
 folktables
 fairlearn
-pyspark
+pyspark==3.4.1
 openpyxl
